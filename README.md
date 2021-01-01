@@ -7,7 +7,7 @@ Usage:
 $ ./converter.py <PATH TO IMAGE>
 ```
 
-Example:
+Examples:
 
 ```bash
 $ ./converter.py imgs/CPP.JPG
